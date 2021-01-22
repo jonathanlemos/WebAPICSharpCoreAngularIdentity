@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\RGT\Contexto\bin\Debug\netcoreapp3.1\Contexto.deps.json
+C:\Users\admin\source\repos\RGT\Contexto\bin\Debug\netcoreapp3.1\Contexto.dll
+C:\Users\admin\source\repos\RGT\Contexto\bin\Debug\netcoreapp3.1\Contexto.pdb
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.AssemblyInfo.cs
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.dll
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.pdb
+C:\Users\admin\source\repos\RGT\Contexto\bin\Debug\netcoreapp3.1\Contexto.runtimeconfig.json
+C:\Users\admin\source\repos\RGT\Contexto\bin\Debug\netcoreapp3.1\Contexto.runtimeconfig.dev.json
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.genruntimeconfig.cache
+C:\Users\admin\source\repos\RGT\Contexto\obj\Debug\netcoreapp3.1\Contexto.csprojAssemblyReference.cache
